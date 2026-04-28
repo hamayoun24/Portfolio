@@ -78,8 +78,8 @@ const Footer = ({ onConsult }) => {
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; {year} Hamayoun Mushtaq. All rights reserved.</p>
-          <p className="footer-tag">Built with React + Vite</p>
+          <p>&copy; 2023 Hamayoun Mushtaq. All rights reserved.</p>
+          <p className="footer-tag">Delivered with passion.</p>
         </div>
       </div>
     </footer>
